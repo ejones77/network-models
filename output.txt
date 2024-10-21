@@ -1,0 +1,72 @@
+Expected Scenario:
+Project completion time: 37.625 days
+
+Task start times (in days):
+A: Start: 0.0, End: 0.5625, Duration: 0.5625
+B: Start: 0.0, End: 2.3125, Duration: 2.3125
+C: Start: 0.625, End: 2.125, Duration: 1.5
+D1: Start: 0.625, End: 1.5625, Duration: 0.9375
+D2: Start: 1.625, End: 6.125, Duration: 4.5
+D3: Start: 1.625, End: 6.125, Duration: 4.5
+D4: Start: 6.125, End: 19.625, Duration: 13.5
+D5: Start: 19.625, End: 21.875, Duration: 2.25
+D6: Start: 19.625, End: 24.125, Duration: 4.5
+D7: Start: 24.125, End: 28.625, Duration: 4.5
+D8: Start: 28.625, End: 33.125, Duration: 4.5
+E: Start: 2.375, End: 6.875, Duration: 4.5
+F: Start: 33.125, End: 35.375, Duration: 2.25
+G: Start: 0.625, End: 2.875, Duration: 2.25
+H: Start: 35.375, End: 37.625, Duration: 2.25
+
+Total project cost: $38725.0
+Total project hours: 774.5
+
+
+
+Best case Scenario:
+Project completion time: 28.3125 days
+
+Task start times (in days):
+A: Start: 0.0, End: 0.421875, Duration: 0.421875
+B: Start: 0.0, End: 1.734375, Duration: 1.734375
+C: Start: 0.5, End: 1.625, Duration: 1.125
+D1: Start: 0.5, End: 1.203125, Duration: 0.703125
+D2: Start: 1.25, End: 4.625, Duration: 3.375
+D3: Start: 1.25, End: 4.625, Duration: 3.375
+D4: Start: 4.625, End: 14.75, Duration: 10.125
+D5: Start: 14.75, End: 16.4375, Duration: 1.6875
+D6: Start: 14.75, End: 18.125, Duration: 3.375
+D7: Start: 18.125, End: 21.5, Duration: 3.375
+D8: Start: 21.5, End: 24.875, Duration: 3.375
+E: Start: 1.75, End: 5.125, Duration: 3.375
+F: Start: 24.875, End: 26.5625, Duration: 1.6875
+G: Start: 0.5, End: 2.1875, Duration: 1.6875
+H: Start: 26.625, End: 28.3125, Duration: 1.6875
+
+Total project cost: $29043.75
+Total project hours: 580.875
+
+
+
+Worst case Scenario:
+Project completion time: 47.0625 days
+
+Task start times (in days):
+A: Start: 0.0, End: 0.703125, Duration: 0.703125
+B: Start: 0.0, End: 2.890625, Duration: 2.890625
+C: Start: 0.75, End: 2.625, Duration: 1.875
+D1: Start: 0.75, End: 1.921875, Duration: 1.171875
+D2: Start: 2.0, End: 7.625, Duration: 5.625
+D3: Start: 2.0, End: 7.625, Duration: 5.625
+D4: Start: 7.625, End: 24.5, Duration: 16.875
+D5: Start: 24.5, End: 27.3125, Duration: 2.8125
+D6: Start: 24.5, End: 30.125, Duration: 5.625
+D7: Start: 30.125, End: 35.75, Duration: 5.625
+D8: Start: 35.75, End: 41.375, Duration: 5.625
+E: Start: 3.0, End: 8.625, Duration: 5.625
+F: Start: 41.375, End: 44.1875, Duration: 2.8125
+G: Start: 0.75, End: 3.5625, Duration: 2.8125
+H: Start: 44.25, End: 47.0625, Duration: 2.8125
+
+Total project cost: $48406.25
+Total project hours: 968.125
